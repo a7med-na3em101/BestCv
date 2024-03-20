@@ -1,0 +1,54 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url("./Artboard\ 1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.size {
+    height: 38rem;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 12rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+.text1 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+.text2 {
+    color: #28282b;
+    padding-left: 45px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
+
+.size1 {
+    background-color: #90c4d5;
+}
+
+.azaro {
+    height: 4px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    font-size: larger;
+    font-weight: 500;
+    padding-top: 18px;
+}
